@@ -7,6 +7,7 @@ Hello, I'm Yüksel.<br>I’m interested in embedded systems.<br>I'm dealing with
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com@yukselzengin)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Yukselzngn&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yukselzngn&theme=vue-dark&hide_border=false)<br/>
