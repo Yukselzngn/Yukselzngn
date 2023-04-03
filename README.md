@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Yüksel.<br>I’m interested in embedded systems.<br>I'm dealing with  STM32.<br>to reach me  : zenginy28@gmail.com
+Hello, I'm Yüksel.<br>I’m interested in embedded systems.<br>I'm dealing with  STM32. You can reach the project videos on youtube (https://www.youtube.com/@yukselzengin/videos).<br>to reach me  : zenginy28@gmail.com
 
 
 ## 🌐 Socials:
